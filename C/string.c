@@ -22,7 +22,7 @@ int main()
 void Init_screen()
 {
 	printf("****************************\n");
-    printf("Welcome to enter the system!\n");
+        printf("Welcome to enter the system!\n");
 	printf("****************************\n");
 
 	puts("\n");
